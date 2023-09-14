@@ -1,27 +1,27 @@
-# Projeto VascoGPT
+# VascoGPT Project
 
-O **VascoGPT** é um projeto de IA desenvolvido em Python, implementado como um Jupyter Notebook (.ipynb). Ele foi criado para simular o Vasco (VAS-119), um robô assistente de pesquisa espacial da constelação do jogo Starfield, da Bethesda Game Studios. Este projeto utiliza a API do ChatGPT da OpenAI para criar uma experiência interativa e envolvente com o personagem Vasco.
+**VascoGPT** is an AI project developed in Python, implemented as a Jupyter Notebook (.ipynb). It was created to simulate Vasco (VAS-119), a space research assistant robot from an organization called Constellation, in the game Starfield by Bethesda Game Studios. This project utilizes the OpenAI ChatGPT API to create an interactive and engaging experience with the character Vasco.
 
-## Objetivos
+## Objectives
 
-Os principais objetivos do projeto VascoGPT incluem:
+The main objectives of the VascoGPT project include:
 
-1. **Interação com Vasco:** Permitir que os jogadores interajam com o personagem Vasco de Starfield por meio de comandos de texto.
+1. **Interaction with Vasco:** Allow players to interact with the character Vasco from Starfield through text commands.
 
-2. **Simulação de Personalidade:** Desenvolver uma personalidade cativante e única para Vasco, que seja consistente com sua representação no jogo.
+2. **Personality Simulation:** Develop a captivating and unique personality for Vasco that is consistent with his portrayal in the game.
 
-3. **Respostas Contextuais:** Capacitar Vasco para fornecer respostas contextualmente relevantes e envolventes às perguntas dos jogadores.
+3. **Contextual Responses:** Empower Vasco to provide contextually relevant and engaging responses to player questions.
 
-4. **Pesquisa Espacial:** Fornecer informações e insights sobre a constelação e as missões espaciais que ocorrem no universo de Starfield.
+4. **Space Research:** Provide information and insights about Constellation and the space missions that take place in the Starfield universe.
 
-5. **Integração de API da OpenAI:** Usar a API do ChatGPT da OpenAI para aprimorar as capacidades de conversação e tornar as interações com Vasco mais dinâmicas.
+5. **OpenAI API Integration:** Utilize the OpenAI ChatGPT API to enhance conversational capabilities and make interactions with Vasco more dynamic.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-O projeto VascoGPT utiliza:
+The VascoGPT project uses:
 
-- **Python:** A linguagem de programação principal para o desenvolvimento do projeto.
+- **Python:** The primary programming language for project development.
 
-- **Jupyter Notebook:** A plataforma utilizada para criar e executar o código do VascoGPT.
+- **Jupyter Notebook:** The platform used to create and run the VascoGPT code.
 
-- **OpenAI GPT-3.5:** A API da OpenAI é o cerne da capacidade de conversação de Vasco, permitindo respostas inteligentes e contextuais.
+- **OpenAI GPT-3.5:** The OpenAI API is at the core of Vasco's conversational ability, enabling intelligent and contextual responses.
