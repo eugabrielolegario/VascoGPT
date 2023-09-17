@@ -62,14 +62,6 @@ To use the VascoGPT project, follow these steps:
 
 In the Jupyter Notebook, you can interact with Vasco by running the provided code cells. Vasco will respond to your text inputs based on his personality and the context provided.
 
-## Contributing
-
-If you would like to contribute to the VascoGPT project, feel free to fork the repository, make improvements, and submit a pull request. We welcome contributions from the community.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Bethesda Game Studios for creating the Starfield game universe.
