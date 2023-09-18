@@ -33,7 +33,7 @@ To use the VascoGPT project, follow these steps:
 1. **Clone the Repository:** Begin by cloning the VascoGPT GitHub repository to your local machine:
 
     ```bash
-    git clone [https://github.com/yourusername/vasco-gpt.git](https://github.com/eugabrielolegario/VascoGPT.git)
+    git clone https://github.com/eugabrielolegario/VascoGPT.git
     ```
 
 2. **Set Up OpenAI API:** Obtain an API key from OpenAI and set it as an environment variable in a `.env` file in the project directory. You can find information on how to obtain an API key from the [OpenAI website](https://beta.openai.com/).
